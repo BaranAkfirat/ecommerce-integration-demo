@@ -15,12 +15,11 @@ This is a Python-based integration system that enables store owners to easily up
 - Flask
 - XML parsing (ElementTree / lxml)
 - Trendyol API
-- React Native (for related mobile dashboard - under ARGES)
 
 ## 🔒 Source Code
 
 The source code is private due to business confidentiality.  
-You can request access or a detailed code sample via email: **yourmail@example.com**
+You can request access or a detailed code sample via email: **baranakf@gmail.com**
 
 ---
 
